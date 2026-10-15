@@ -1,4 +1,3 @@
--- Medições fictícias para demonstração; não representam dados científicos reais.
 INSERT INTO dado_coletado
 (sonda_nome, agencia_espacial, data_coleta, tipo_dado, valor_medido, unidade_medida)
 VALUES
